@@ -7,7 +7,7 @@ In Chrome:
 - On [freecodecamp](https://freecodecamp.com) open your console
   - Windows: `Ctrl` + `Shift` + `J`
   - Mac OS: `Cmd` + `Opt` + `J`
-- Go to resources tab(chrome). 
+- Go to Application Tab(Chrome). 
   - There click on the "Local Storage" link in the nav bar on the right.
 - Delete all the entries on the right side, or run this command in your browser's console to clear all entries from your localStorage: `localStorage.clear();`
 - See if this solves your issue
